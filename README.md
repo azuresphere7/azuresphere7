@@ -104,5 +104,5 @@ I am a software engineer experienced in designing, developing, and implementing 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="96" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=96&section=footer" width="100%" height="120" />
 </p>
