@@ -1,3 +1,5 @@
+<div style="width: 100%; height: 4px; background-color:#2AF;"></div>
+
 <p align="center">
   <img src="assets/banner.jpg" width="100%" />
 </p>
