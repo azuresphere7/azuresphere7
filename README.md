@@ -1,12 +1,10 @@
-<h2 align="center">🧿 AZURESPHERE 🧿</h2>
-
-```yaml
-name: Dustin Jason Lee
-role: Senior Software Engineer
-education: B.S. in Computer Science
-```
+<p align="center">
+  <img src="assets/banner.jpg" width="100%" />
+</p>
 
 <hr />
+
+### Hi, There! 👋
 
 👨‍💻 Professional Software Engineer <br />
 💻 Expert in Enterprise-Level Development with Web and Mobile Experience <br />
@@ -87,7 +85,3 @@ I am a software engineer experienced in designing, developing, and implementing 
 </p>
 
 <br />
-
-<p align="center">
-  <img src="assets/banner.jpg" width="100%" />
-</p>
