@@ -4,7 +4,6 @@
 name: Dustin Jason Lee
 role: Senior Software Engineer
 education: B.S. in Computer Science
-interest: Tennis, Football
 ```
 
 <hr />
@@ -32,29 +31,19 @@ I am a software engineer experienced in designing, developing, and implementing 
   <img src="./assets/icons/git.svg" alt="git" />
   <img src="./assets/icons/github.svg" alt="github" />
   <img src="./assets/icons/gitlab.svg" alt="gitlab" />
-  <img src="./assets/icons/vscode.svg" alt="vscode" />
-  <img src="./assets/icons/visual_studio.svg" alt="visual_studio" />
-  <img src="./assets/icons/windows.svg" alt="windows" />
   <img src="./assets/icons/linux.svg" alt="linux" />
-  <img src="./assets/icons/windows_terminal.svg" alt="windows_terminal" />
   <img src="./assets/icons/powershell.svg" alt="powershell" />
-  <img src="./assets/icons/markdown.svg" alt="markdown" />
   <img src="./assets/icons/notion.svg" alt="notion" />
-  <img src="./assets/icons/html.svg" alt="html" />
-  <img src="./assets/icons/css.svg" alt="css" />
   <img src="./assets/icons/sass.svg" alt="sass" />
   <img src="./assets/icons/cssnano.svg" alt="cssnano" />
   <img src="./assets/icons/postcss.svg" alt="postcss" />
   <img src="./assets/icons/figma.svg" alt="figma" />
-  <img src="./assets/icons/photoshop.svg" alt="photoshop" />
-  <img src="./assets/icons/lighthouse.svg" alt="lighthouse" />
   <img src="./assets/icons/react.svg" alt="react" />
   <img src="./assets/icons/redux.svg" alt="redux" />
   <img src="./assets/icons/next.svg" alt="next" />
   <img src="./assets/icons/styled_components.svg" alt="styled_components" />
   <img src="./assets/icons/autoprefixer.svg" alt="autoprefixer" />
   <img src="./assets/icons/altair.svg" alt="altair" />
-  <img src="./assets/icons/normalize.svg" alt="normalize" />
   <img src="./assets/icons/ejs.svg" alt="ejs" />
   <img src="./assets/icons/svgo.svg" alt="svgo" />
   <img src="./assets/icons/pwa.svg" alt="pwa" />
