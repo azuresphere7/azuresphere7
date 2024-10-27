@@ -8,7 +8,6 @@
 🎯 Stay up-to-date with industry trends <br />
 
 <hr />
-<br />
 
 <p>Thank you for your interest in my technical journey. I'm excited to introduce myself as a highly motivated and skilled IT professional. My passion for this field began a long time ago, and I have developed numerous software solutions throughout my career. I am adept at collaborating with professional teams to analyze requirements and deliver scalable, maintainable code within established timelines.</p>
 
